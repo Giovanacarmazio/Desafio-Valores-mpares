@@ -1,21 +1,42 @@
-# Desafio Valores Ímpares
+```markdown
+# Odd Values Challenge
 
-Leitura de um valor inteiro X. Em seguida apresenta os 6 valores ímpares consecutivos a partir de X, um valor por linha, inclusive o X se for o caso.
+Este repositório contém o projeto **Odd Values Challenge**, que tem como objetivo identificar e separar valores ímpares em uma lista de números. O sistema realiza a contagem e exibição dos números ímpares de forma eficiente.
 
-Entrada
+## Descrição do Projeto
 
- valor inteiro positivo.
+O **Odd Values Challenge** foi desenvolvido para processar uma sequência de números e identificar os valores ímpares, gerando um relatório com os resultados da análise.
 
-Saída
-sequência de seis números ímpares.
+## Funcionalidades
 
- 
+- Identificação de números ímpares em uma lista.
+- Contagem de valores ímpares.
+- Geração de relatório com os resultados da análise.
 
-| Exemplos de Entrada  | Exemplos de Saída |
-| ------------- |:-------------:|
-|       8       |     9         |
-|               |    11         |
-|               |    13         |
-|               |    15         |
-|               |    17         |
-|               |    19         |
+## Tecnologias Utilizadas
+
+- **Python**
+
+## Estrutura do Repositório
+
+- `odd_values.py`: Código principal que realiza a identificação e contagem de números ímpares.
+- `docs/`: Documentação explicativa sobre o uso do sistema.
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Giovanacarmazio/Desafio-Valores-Impares.git
+   ```
+
+2. Execute o script:
+   ```bash
+   python odd_values.py
+   ```
+
+3. Insira a lista de números e visualize o relatório dos valores ímpares.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
+```
